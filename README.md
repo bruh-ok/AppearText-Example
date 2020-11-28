@@ -5,7 +5,7 @@
 Welcome, this is my first animation that I am publishing, nothing much and is probably elsewhere, but this is the way that I approached the animation.
 Please, feel free to use this animation in any of your webpages, as I certainly will be.
 
-This is the appearing text animation, where the text enters in from outside the container, which makes the magic appearance effect. I designed this using my knowledge of html, css and javascript.
+This is the appearing text animation, where the text enters in from outside the container, which makes the magic appearance effect. I created this using my knowledge of html, css and javascript. (As a disclaimer here, if this was made elsewhere which it probably was, then I may have made slight differences to your code, as I know this is not a one to one since it is so simple. Just publishing it as I want to help others. Message me if any issues.)
 
 There are 2 versions of this that are enclosed here, one for hovering, and one for the loading of the window.
 
