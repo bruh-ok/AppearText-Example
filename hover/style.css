@@ -22,7 +22,7 @@ body {
 
 .appear-container-first {
     position: relative;
-    left: -600px;
+    left: -700px;
     font-size: 120px;
     background: linear-gradient(blue,cyan);
     background-clip: text;
