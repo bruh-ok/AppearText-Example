@@ -1,3 +1,3 @@
 # AppearText-Example
 
-![Onload](https://imgur.com/KrwvQLc)
+![Onload](https://i.imgur.com/KrwvQLc.gif)
