@@ -13,7 +13,7 @@ There are 2 versions of this that are enclosed here, one for hovering, and one f
 
 ![Hover gif](https://i.imgur.com/tNTU7xb.gif)
 
-For example, the hovering effect is used for cursor hovering, so if you was to hover your cursor over the container of the text (in my example class: appear-overall), then the text will appear from the right, until you take your mouse off the container.
+For example, the hovering effect is used for cursor hovering, so if you was to hover your cursor over the container of the text (in my example class: appear-overall), then the text will appear from the left, until you take your mouse off the container.
 
 # Onload effect
 
