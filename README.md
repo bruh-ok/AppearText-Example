@@ -1,6 +1,6 @@
 # AppearText-Example
 
-[![Generic badge](https://img.shields.io/badge/Contributions-Welcome!-brightgreen.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Working-Yes!-brightgreen.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Version-1.0.3-blueviolet.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Uses-HTML CSS JS DOM-blueviolet.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Contributions-Welcome!-brightgreen.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Working-Yes!-brightgreen.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Version-1.0.3-blueviolet.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Uses-HTML.CSS.JavaScriptDOM-blueviolet.svg)](https://shields.io/)
 
 Welcome, this is my first animation that I am publishing, nothing much and is probably elsewhere, but this is the way that I approached the animation.
 Please, feel free to use this animation in any of your webpages, as I certainly will be.
