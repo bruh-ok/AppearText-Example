@@ -28,6 +28,8 @@ body {
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+    transition: all .7s;
+    transition-timing-function: cubic-bezier(0,0,.58,1);
 }
 
 .appear-container-second {
@@ -38,15 +40,17 @@ body {
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+    transition: all 1s;
+    transition-timing-function: cubic-bezier(0,0,.58,1);
 }
 
-.appear-overall:hover + .appear-container-first {
+.appear-container-first-changed {
     left: 0px;
     transition: all .7s;
     transition-timing-function: cubic-bezier(0,0,.58,1);
 }
 
-.appear-overall:hover + .appear-container-second {
+.appear-container-second-changed {
     left: 0px;
     transition: all 1s;
     transition-timing-function: cubic-bezier(0,0,.58,1);
