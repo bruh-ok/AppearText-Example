@@ -1,6 +1,6 @@
 # AppearText-Example
 
-[![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-html.svg)](http://ForTheBadge.com) [![ForTheBadge uses-css](http://ForTheBadge.com/images/badges/uses-css.svg)](http://ForTheBadge.com) [![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](http://ForTheBadge.com) [![Generic badge](https://img.shields.io/badge/Contributions-Welcome!-brightgreen.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Working?-Yes!-brightgreen.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Version-1.0.3-blueviolet.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Contributions-Welcome!-brightgreen.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Working-Yes!-brightgreen.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Version-1.0.3-blueviolet.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Uses-HTML CSS JS DOM-blueviolet.svg)](https://shields.io/)
 
 Welcome, this is my first animation that I am publishing, nothing much and is probably elsewhere, but this is the way that I approached the animation.
 Please, feel free to use this animation in any of your webpages, as I certainly will be.
@@ -20,3 +20,8 @@ For example, the hovering effect is used for cursor hovering, so if you was to h
 ![Onload gif](https://i.imgur.com/KrwvQLc.gif)
 
 The other example is of the onload event, which uses the event listener 'load' to make the text appear by itself, without the need to hover your cursor over the container. This one is more ideal for solutions in my opinion, as you can make the text appear at times you need by simply changing the setTimeout's in the javascript file. 
+
+
+More to come, so maybe hit the follow button on my profile? Again, feel free to use, and contribute where you can.
+
+- TSX-exe.
